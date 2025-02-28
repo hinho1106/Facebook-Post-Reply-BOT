@@ -24,6 +24,10 @@ Perfect for:
 - Event organizations handling frequent inquiries
 - Community managers seeking to automate common responses
 
+Script Overview:
+- RenewToken.py : A script for renewing Facebook Page Access Token
+- AutoReplyBot.py : A script for automatically replying and messaging on Facebook page post comments.
+
 ## ✨ Features
 
 - **Automated Monitoring**: Continuously monitors comments on specified Facebook posts
